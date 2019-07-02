@@ -24,4 +24,4 @@
 
 [cosmos经济模型如何实现的](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/client/distribution.md)
 
-[其他笔记](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/%E5%85%B6%E4%BB%96.md)
+[其他笔记](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/others.md)
