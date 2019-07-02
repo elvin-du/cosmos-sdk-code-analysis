@@ -8,7 +8,7 @@
 
 [全节点启动流程](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/full-node-start.md)
 
-[整体的大体流程](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/others.md)
+[整体的大体流程](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/main-sequence.md)
 
 [Tendermint节点管理](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/tendermint-peers.md)
 
