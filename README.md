@@ -1,6 +1,7 @@
 # cosmos-sdk代码解析
 
-学习以太坊的时候感觉github上面的一个eth-code-analysis repo挺好的，所以在自己学习cosmos和tendermint的过程中做了一些笔记，没有系统整理过，有些凌乱，因为cosmos代码在不停的迭代，也许笔记上面有些和最新代码不一致的地方。如果有任何问题可以和我联系，本人比较熟悉cosmos-sdk，tendermint，ethereum
+学习以太坊的时候感觉github上面的一个eth-code-analysis repo挺好的，所以在自己学习cosmos和tendermint的过程中做了一些笔记，没有系统整理过，有些凌乱，因为cosmos代码在不停的迭代，也许笔记上面有些和最新代码不一致的地方。如果有任何问题可以和我联系，本人比较熟悉cosmos-sdk，tendermint，ethereum。
+
 我的邮箱是： **dumanxiang@qq.com**
 
 [cosmos地址解析](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/address.md)
