@@ -14,7 +14,7 @@
 
 [Tx数据流转流程](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/broadcast-Tx.md)
 
-[config目录下文件的作用](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E8%A7%A3%E6%9E%90.md)
+[config目录下文件的作用](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/config-folder.md)
 
 [ABCI-APP](https://github.com/elvin-du/cosmos-sdk-code-analysis/blob/master/daemon/ABCI-APP.md)
 
